@@ -14,7 +14,7 @@ Welcome to my Protfolio. This project serves as a showcase of my skills, project
 
 To view this portfolio locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/Gilmorecollins/Responsive-Portfolio-2.0.git`
+1. Clone this repository: `git clone https://github.com/Gilmorecollins/Responsive-Portfolio-2.2.git`
 2. Navigate to the project directory: `cd portfolio`
 3. Open `index.html` in your preferred web browser.
 
@@ -34,7 +34,7 @@ Explore the different sections of the portfolio to learn more about me and my wo
 - Description: A short description of the project and its goals.
 - Technologies: List of technologies used.
 - Demo: [Link to live demo](Soon)
-- Repository: [Link to GitHub repository](https://github.com/Gilmorecollins/Responsive-Portfolio-2.0)
+- Repository: [Link to GitHub repository](https://github.com/Gilmorecollins/Responsive-Portfolio-2.2.git)
 
 ## Contributing
 
@@ -42,7 +42,7 @@ If you find any issues or have suggestions for improvement, please feel free to 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [https://www.themesine.com/license/](LICENSE).
 
 ## Contact
 
